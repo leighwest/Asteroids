@@ -15,7 +15,7 @@ This game is hosted on CodeSkulptor, a web-based Python Interpreter. To view the
 
 ### Gameplay
 
-![](/Screenshots/Gameplay.PNG?raw=true "Gameplay")
+![](/Screenshots/GameplayPNG.PNG?raw=true "Gameplay")
 
 
 ## Enjoy!
