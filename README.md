@@ -5,10 +5,7 @@ This game is hosted on CodeSkulptor, a web-based Python Interpreter. To view the
 
 ## Video Summary
 
-[![Watch the video]](https://vimeo.com/509641149)
-
-<iframe src="https://player.vimeo.com/video/509641149" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/509641149">Asteroids summary video</a> from <a href="https://vimeo.com/user127722423">Leigh West</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+A 90 second video summary detailing the technical and user features is available [here](https://vimeo.com/509641149)
 
 ## Screenshots
 
